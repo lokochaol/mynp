@@ -1,0 +1,6 @@
+setup.py
+mynp/mynp.py
+mynp.egg-info/PKG-INFO
+mynp.egg-info/SOURCES.txt
+mynp.egg-info/dependency_links.txt
+mynp.egg-info/top_level.txt
